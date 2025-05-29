@@ -1,18 +1,8 @@
 <div align="center">
-  <img height="500" src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg1MDA4ODcsIm5iZiI6MTc0ODUwMDU4NywicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI5VDA2MzYyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBkYTRmZmVmMjYxZTQzZjA2ZTgxY2Y5YjdhZTdjMmMwYTU2N2I3N2MyZGYxYzZkYjc4YmJiOWVkZTM4YzcyZTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.NqDKKMHtt5KZ_ApFg46gBx8f8dCEwuDk_4lf6BGpAAg"  />
+  <img height="500" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Visual%20Studio%20Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="visualstudio logo"  />
-</div>
-
-###
-
-<h1 align="center">Hey there!👋</h1>
+<h1 align="center">Hello, world!👋</h1>
 
 ###
 
@@ -20,7 +10,7 @@
 
 ###
 
-<p align="left">💫 About Me<br>👋 Hi, I’m Charunetra – a B.Tech CSE student<br>💡 Aspiring Data Scientist | 🌐 Budding Full Stack Developer | 📚 Lifelong Learner<br>place: coimbatore<br><br>🚀 What I'm Up To<br>Currently exploring the worlds of Data Science and Full Stack Development.<br>I enjoy coding, solving problems, and building meaningful projects with real-world impact.<br><br>🔧 Skills & Learning<br>🐍 Python | C | C++<br>🌐 HTML & CSS (Basics)<br>📊 Data Analysis & Visualization<br>🛠️ SQL | Git & GitHub<br>🧠 Learning ML, Web Dev, and More!</p>
+<p align="left">👋 Hey, I’m Charunetra – a B.Tech CSE student<br>💡 Aspiring Data Scientist | 🌐 Budding Full Stack Developer | 📚 Lifelong Learner<br>place: coimbatore<br><br>🚀 What I'm Up To<br>Currently exploring the worlds of Data Science and Full Stack Development.<br>I enjoy coding, solving problems, and building meaningful projects with real-world impact.<br><br>🔧 Skills & Learning<br>🐍 Python | C | C++<br>🌐 HTML & CSS (Basics)<br>📊 Data Analysis & Visualization<br>🛠️ SQL | Git & GitHub<br>🧠 Learning ML, Web Dev, and More!</p>
 
 ###
 
@@ -62,6 +52,20 @@
 
 ###
 
-<h3 align="left">🔥   My Status :</h3>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Charu-1917&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Charu-1917&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Charu-1917&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Charu-1917&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Charu-1917&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
